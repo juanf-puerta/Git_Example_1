@@ -9,5 +9,6 @@ c = 32
 
 # calculate square roots
 
+a_sroot = m.sqrt(a^2)
 magnitude = m.sqrt(a^2+b^2+c^2)
 print(magnitude)
